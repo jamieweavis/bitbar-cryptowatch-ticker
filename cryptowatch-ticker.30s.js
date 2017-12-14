@@ -1,6 +1,6 @@
 #!/usr/local/bin/node
 /**
- * <bitbar.title>Cryptowat.ch Currency Ticker</bitbar.title>
+ * <bitbar.title>Cryptowatch Ticker</bitbar.title>
  * <bitbar.version>v1.0.0</bitbar.version>
  * <bitbar.author>Jamie Straw</bitbar.author>
  * <bitbar.author.github>jamiestraw</bitbar.author.github>
