@@ -11,7 +11,7 @@
 
 const config = {
   exchange: 'gdax',
-  currency: 'usd', // eur or usd - Litecoin & Etheream can't be converted to GBP on GDAX
+  currency: 'usd',
   showIcons: true,
   showCurrencyCodes: true,
   enabledCurrencies: {
@@ -20,8 +20,8 @@ const config = {
     ETH: true
   },
   arrows: {
-    up: '⬆',  // Alternatives: ▲
-    down: '⬇' // Alternatives: ▼
+    up: '⬆',
+    down: '⬇'
   }
 }
 
