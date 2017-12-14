@@ -10,7 +10,8 @@ See official BitBar guide for [installing plugins](https://github.com/matryer/bi
 ## 🚀 Features
 
 - Highly configurable
-- Displays current exchange rates and 24h percentage changes for enabled cryptocurrencies
+- Menu bar ticker switches between enabled cryptocurrencies
+- Dropdown displays current exchange rates and 24h percentage changes for enabled cryptocurrencies
 - Click currencies to view candlestick charts on [Cryptowat.ch](https://cryptowat.ch/)
 
 
