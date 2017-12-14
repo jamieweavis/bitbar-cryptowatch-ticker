@@ -5,7 +5,7 @@
  * <bitbar.author>Jamie Straw</bitbar.author>
  * <bitbar.author.github>jamiestraw</bitbar.author.github>
  * <bitbar.image>https://raw.githubusercontent.com/jamiestraw/bitbar-cryptowatch-ticker/master/screenshot.png</bitbar.image>
- * <bitbar.desc>Configurable cryptowat.ch cryptocurrency price tracking ticker plugin</bitbar.desc>
+ * <bitbar.desc>Configurable cryptowat.ch price tracking ticker plugin for BitBar</bitbar.desc>
  * <bitbar.dependencies>node</bitbar.dependencies>
  */
 

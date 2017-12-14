@@ -1,5 +1,5 @@
 # BitBar Cryptowatch Ticker
-> 📈 Configurable cryptowat.ch cryptocurrency price tracking ticker plugin
+> 📈 Configurable cryptowat.ch price tracking ticker plugin for BitBar
 
 <img src="screenshot.png" width="450">
 
