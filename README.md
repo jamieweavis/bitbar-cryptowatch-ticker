@@ -3,11 +3,11 @@
 
 <img src="screenshot.png" width="450">
 
-## 📦 Install
+## Installation
 
 See official BitBar guide for [installing plugins](https://github.com/matryer/bitbar#installing-plugins).
 
-## 🚀 Features
+## Features
 
 - Highly configurable
 - Menu bar ticker switches between enabled cryptocurrencies
@@ -15,6 +15,6 @@ See official BitBar guide for [installing plugins](https://github.com/matryer/bi
 - Click currencies to view candlestick charts on [Cryptowat.ch](https://cryptowat.ch/)
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
