@@ -2,9 +2,9 @@
 /**
  * <bitbar.title>Cryptowatch Ticker</bitbar.title>
  * <bitbar.version>v1.0.0</bitbar.version>
- * <bitbar.author>Jamie Straw</bitbar.author>
- * <bitbar.author.github>jamiestraw</bitbar.author.github>
- * <bitbar.image>https://raw.githubusercontent.com/jamiestraw/bitbar-cryptowatch-ticker/master/screenshot.png</bitbar.image>
+ * <bitbar.author>Jamie Weavis</bitbar.author>
+ * <bitbar.author.github>jamieweavis</bitbar.author.github>
+ * <bitbar.image>https://raw.githubusercontent.com/jamieweavis/bitbar-cryptowatch-ticker/master/screenshot.png</bitbar.image>
  * <bitbar.desc>Configurable cryptowat.ch price tracking ticker plugin for BitBar</bitbar.desc>
  * <bitbar.dependencies>node</bitbar.dependencies>
  */
