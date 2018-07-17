@@ -1,4 +1,4 @@
-<p align="center"><img src="./demo@2x.gif" width="355" alt="Animated Demo"></p>
+<p align="center"><img src="./demo@2x.gif" width="420" alt="Animated Demo"></p>
 <h3 align="center">Cryptowatch Ticker</h3>
 <p align="center">📈 Configurable cryptowat.ch price tracking ticker plugin for BitBar</p>
 
