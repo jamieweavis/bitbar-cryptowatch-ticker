@@ -1,7 +1,7 @@
 #!/usr/local/bin/node
 /**
  * <bitbar.title>Cryptowatch Ticker</bitbar.title>
- * <bitbar.version>v1.0.0</bitbar.version>
+ * <bitbar.version>v1.0.1</bitbar.version>
  * <bitbar.author>Jamie Weavis</bitbar.author>
  * <bitbar.author.github>jamieweavis</bitbar.author.github>
  * <bitbar.image>https://raw.githubusercontent.com/jamieweavis/cryptowatch-ticker/master/demo@2x.gif</bitbar.image>
