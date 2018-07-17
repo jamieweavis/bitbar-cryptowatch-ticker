@@ -1,19 +1,26 @@
-# BitBar Cryptowatch Ticker
-> 📈 Configurable cryptowat.ch price tracking ticker plugin for BitBar
-
-<img src="screenshot.png" width="450">
+<p align="center"><img src="./demo@2x.gif" width="355" alt="Animated Demo"></p>
+<h3 align="center">Cryptowatch Ticker</h3>
+<p align="center">📈 Configurable cryptowat.ch price tracking ticker plugin for BitBar</p>
 
 ## Installation
 
-See official BitBar guide for [installing plugins](https://github.com/matryer/bitbar#installing-plugins).
+See official BitBar instructions for [installing plugins](https://github.com/matryer/bitbar#installing-plugins).
 
 ## Features
 
-- Highly configurable
-- Menu bar ticker switches between enabled cryptocurrencies
+- Configurable:
+    - Exchange
+    - Currency
+    - Show Icons
+    - Show Currency Codes
+    - Custom Arrow Icons
+    - Enabled Currencies
+        - BTC
+        - LTC
+        - ETH
+- Ticker flicks between enabled cryptocurrencies
 - Dropdown displays current exchange rates and 24h percentage changes for enabled cryptocurrencies
 - Click currencies to view candlestick charts on [Cryptowat.ch](https://cryptowat.ch/)
-
 
 ## License
 
